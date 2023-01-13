@@ -1,3 +1,6 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 
 img {
     width: 100%;
@@ -40,3 +43,4 @@ ul {
 .imgbeneficios {
     width: 50%;
 }
+
