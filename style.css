@@ -137,9 +137,7 @@ form label, form legend {
     transform: scale(1.2);
 }
 
-table {
-    margin: 20px 0 40px;
-}
+
 thead {
     background-color: #555555;
     color: white;
@@ -181,6 +179,10 @@ td, th {
 .principal p {
     margin:  0 0 1em;
     
+}
+
+.contact-center {
+    margin: 2em;
 }
 
 .principal strong {
